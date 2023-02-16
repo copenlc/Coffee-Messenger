@@ -3,8 +3,8 @@ Slack Alert system using a Sonoff S31 WIFI Smart Plug
 
 # Upgrading the SONOFF S31
 
-#Creating Slack Webhook
+# Creating Slack Webhook
 
-#Python Script
+# Python Script
 
-#Creating a Service with Script on an Ubuntu VM
+# Creating a Service with Script on an Ubuntu VM
